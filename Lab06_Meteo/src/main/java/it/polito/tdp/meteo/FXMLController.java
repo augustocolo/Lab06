@@ -11,8 +11,18 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.ChoiceBox;
 import javafx.scene.control.TextArea;
+import javafx.collections.ObservableList;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
+import java.util.Collections;
+
+import it.polito.tdp.meteo.model.Model;
 
 public class FXMLController {
+	
+	Model model = new Model();
 
     @FXML // ResourceBundle that was given to the FXMLLoader
     private ResourceBundle resources;
@@ -21,7 +31,7 @@ public class FXMLController {
     private URL location;
 
     @FXML // fx:id="boxMese"
-    private ChoiceBox<?> boxMese; // Value injected by FXMLLoader
+    private ChoiceBox<Integer> boxMese; // Value injected by FXMLLoader
 
     @FXML // fx:id="btnUmidita"
     private Button btnUmidita; // Value injected by FXMLLoader
@@ -34,12 +44,14 @@ public class FXMLController {
 
     @FXML
     void doCalcolaSequenza(ActionEvent event) {
-
+    	txtResult.clear();
+    	txtResult.setText(model.trovaSequenza(boxMese.getValue()));
     }
 
     @FXML
     void doCalcolaUmidita(ActionEvent event) {
-
+    	txtResult.clear();
+    	txtResult.setText(model.getUmiditaMedia(boxMese.getValue()));
     }
 
     @FXML // This method is called by the FXMLLoader when initialization is complete
@@ -48,7 +60,21 @@ public class FXMLController {
         assert btnUmidita != null : "fx:id=\"btnUmidita\" was not injected: check your FXML file 'Scene.fxml'.";
         assert btnCalcola != null : "fx:id=\"btnCalcola\" was not injected: check your FXML file 'Scene.fxml'.";
         assert txtResult != null : "fx:id=\"txtResult\" was not injected: check your FXML file 'Scene.fxml'.";
-
+        
+        boxMese.getItems().add(1);
+        boxMese.getItems().add(2);
+        boxMese.getItems().add(3);
+        boxMese.getItems().add(4);
+        boxMese.getItems().add(5);
+        boxMese.getItems().add(6);
+        boxMese.getItems().add(7);
+        boxMese.getItems().add(8);
+        boxMese.getItems().add(9);
+        boxMese.getItems().add(10);
+        boxMese.getItems().add(11);
+        boxMese.getItems().add(12);
+        
+        boxMese.setValue(1);
     }
 }
 
