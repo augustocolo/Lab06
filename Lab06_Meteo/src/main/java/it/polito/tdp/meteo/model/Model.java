@@ -139,7 +139,7 @@ public class Model {
 		int costo = 0;
 		for (int i = 0; i < seq.size() - 1; i++) {
 			costo += seq.get(i).getUmidita();
-			if (!seq.get(i).getLocalita().contentEquals(seq.get(i).getLocalita())) {
+			if (!seq.get(i).getLocalita().contentEquals(seq.get(i+1).getLocalita())) {
 				costo += COST;
 			}
 		}

@@ -1,0 +1,227 @@
+Gennaio
+
+2013-01-01 Torino 73
+2013-01-02 Torino 85
+2013-01-03 Torino 73
+2013-01-04 Torino 60
+2013-01-05 Torino 51
+2013-01-06 Torino 52
+2013-01-07 Milano 99
+2013-01-08 Milano 99
+2013-01-09 Milano 90
+2013-01-10 Genova 72
+2013-01-11 Genova 64
+2013-01-12 Genova 63
+2013-01-13 Genova 74
+2013-01-14 Genova 64
+2013-01-15 Genova 76
+Costo totale: 1295
+
+Febbraio
+
+2013-02-01 Milano 100
+2013-02-02 Milano 99
+2013-02-03 Milano 58
+2013-02-04 Torino 44
+2013-02-05 Torino 70
+2013-02-06 Torino 42
+2013-02-07 Torino 54
+2013-02-08 Torino 35
+2013-02-09 Torino 34
+2013-02-10 Genova 32
+2013-02-11 Genova 77
+2013-02-12 Genova 64
+2013-02-13 Genova 50
+2013-02-14 Genova 44
+2013-02-15 Genova 58
+Costo totale: 1061
+
+Marzo
+
+2013-03-01 Torino 73
+2013-03-02 Torino 78
+2013-03-03 Torino 72
+2013-03-04 Torino 67
+2013-03-05 Torino 70
+2013-03-06 Genova 79
+2013-03-07 Genova 79
+2013-03-08 Genova 83
+2013-03-09 Genova 84
+2013-03-10 Genova 82
+2013-03-11 Genova 78
+2013-03-12 Milano 92
+2013-03-13 Milano 87
+2013-03-14 Milano 61
+2013-03-15 Milano 20
+Costo totale: 1305
+
+Aprile
+
+2013-04-01 Milano 80
+2013-04-02 Milano 72
+2013-04-03 Milano 71
+2013-04-04 Genova 76
+2013-04-05 Genova 71
+2013-04-06 Genova 72
+2013-04-07 Genova 58
+2013-04-08 Genova 74
+2013-04-09 Genova 72
+2013-04-10 Torino 72
+2013-04-11 Torino 83
+2013-04-12 Torino 76
+2013-04-13 Torino 58
+2013-04-14 Torino 57
+2013-04-15 Torino 60
+Costo totale: 1252
+
+Maggio
+
+2013-05-01 Genova 67
+2013-05-02 Genova 71
+2013-05-03 Genova 80
+2013-05-04 Genova 73
+2013-05-05 Genova 80
+2013-05-06 Genova 74
+2013-05-07 Torino 70
+2013-05-08 Torino 68
+2013-05-09 Torino 67
+2013-05-10 Torino 84
+2013-05-11 Torino 71
+2013-05-12 Torino 46
+2013-05-13 Milano 57
+2013-05-14 Milano 56
+2013-05-15 Milano 71
+Costo totale: 1235
+
+Giugno
+
+2013-06-01 Torino 62
+2013-06-02 Torino 51
+2013-06-03 Torino 57
+2013-06-04 Torino 56
+2013-06-05 Torino 62
+2013-06-06 Torino 65
+2013-06-07 Genova 71
+2013-06-08 Genova 77
+2013-06-09 Genova 81
+2013-06-10 Milano 73
+2013-06-11 Milano 58
+2013-06-12 Milano 54
+2013-06-13 Milano 51
+2013-06-14 Milano 52
+2013-06-15 Milano 61
+Costo totale: 1131
+
+Luglio
+
+2013-07-01 Milano 53
+2013-07-02 Milano 47
+2013-07-03 Milano 54
+2013-07-04 Milano 58
+2013-07-05 Genova 53
+2013-07-06 Genova 53
+2013-07-07 Genova 51
+2013-07-08 Genova 38
+2013-07-09 Genova 43
+2013-07-10 Torino 57
+2013-07-11 Torino 60
+2013-07-12 Torino 65
+2013-07-13 Torino 68
+2013-07-14 Torino 65
+2013-07-15 Torino 56
+Costo totale: 1021
+
+Agosto
+
+2013-08-01 Milano 56
+2013-08-02 Milano 59
+2013-08-03 Milano 55
+2013-08-04 Milano 54
+2013-08-05 Milano 56
+2013-08-06 Milano 52
+2013-08-07 Genova 64
+2013-08-08 Genova 60
+2013-08-09 Genova 59
+2013-08-10 Genova 27
+2013-08-11 Genova 43
+2013-08-12 Genova 62
+2013-08-13 Torino 66
+2013-08-14 Torino 76
+2013-08-15 Torino 63
+Costo totale: 1052
+
+Settembre
+
+2013-09-01 Genova 63
+2013-09-02 Genova 47
+2013-09-03 Genova 58
+2013-09-04 Genova 56
+2013-09-05 Genova 59
+2013-09-06 Genova 60
+2013-09-07 Milano 66
+2013-09-08 Milano 76
+2013-09-09 Milano 66
+2013-09-10 Torino 71
+2013-09-11 Torino 58
+2013-09-12 Torino 58
+2013-09-13 Torino 53
+2013-09-14 Torino 58
+2013-09-15 Torino 85
+Costo totale: 1134
+
+Ottobre
+
+2013-10-01 Milano 74
+2013-10-02 Milano 75
+2013-10-03 Milano 68
+2013-10-04 Milano 69
+2013-10-05 Torino 86
+2013-10-06 Torino 88
+2013-10-07 Torino 90
+2013-10-08 Torino 79
+2013-10-09 Torino 86
+2013-10-10 Genova 77
+2013-10-11 Genova 51
+2013-10-12 Genova 49
+2013-10-13 Genova 65
+2013-10-14 Genova 64
+2013-10-15 Genova 72
+Costo totale: 1293
+
+Novembre
+
+2013-11-01 Milano 89
+2013-11-02 Milano 86
+2013-11-03 Milano 92
+2013-11-04 Torino 77
+2013-11-05 Torino 75
+2013-11-06 Torino 74
+2013-11-07 Torino 83
+2013-11-08 Torino 91
+2013-11-09 Torino 81
+2013-11-10 Genova 59
+2013-11-11 Genova 14
+2013-11-12 Genova 27
+2013-11-13 Genova 37
+2013-11-14 Genova 67
+2013-11-15 Genova 66
+Costo totale: 1218
+
+Dicembre
+
+2013-12-01 Genova 35
+2013-12-02 Genova 27
+2013-12-03 Genova 33
+2013-12-04 Genova 54
+2013-12-05 Genova 73
+2013-12-06 Milano 67
+2013-12-07 Milano 88
+2013-12-08 Milano 99
+2013-12-09 Milano 97
+2013-12-10 Torino 72
+2013-12-11 Torino 68
+2013-12-12 Torino 72
+2013-12-13 Torino 67
+2013-12-14 Torino 61
+2013-12-15 Torino 67
+Costo totale: 1180
